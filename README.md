@@ -53,12 +53,6 @@ Python · pandas · NumPy · Matplotlib · seaborn · Jupyter Notebook
 
 Open [Waze-EDA-Project.ipynb](Waze-EDA-Project.ipynb) to view the code, saved visualizations, and commentary.
 
-## Run locally
-
-Install pandas, NumPy, Matplotlib, seaborn, and Jupyter. Place the permitted course dataset, named `waze_dataset.csv`, beside the notebook, then run the cells in order.
-
-If the dataset is not included in this repository, it must be obtained separately from the course source.
-
 ## Acknowledgment
 
 This is a course-based educational project. The dataset and any supplied starter material belong to their respective providers. My contributions should be distinguished from provided exercises and reference material.
